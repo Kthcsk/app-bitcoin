@@ -1,0 +1,8 @@
+.box-small{
+ display: flex;
+ justify-content: center;
+ text-align: center;
+ height: 60px;
+ margin: 20px;
+ background-color: whitesmoke;
+}

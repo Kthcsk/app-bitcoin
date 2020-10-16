@@ -1,27 +1,25 @@
-# AppBitcoin
+# APP Fluctuación Bitcoin
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
+Aplicación web que permite visualizar el precio actual del bitcoin en tiempo real, incluye un grafico con los valores entre el periodo de **09 de agosto a 09 de septiembre del 2020.**
 
-## Development server
+Para ver la demo del proyecto haz click [aquí]()
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### 1. Proceso
 
-## Code scaffolding
+ 1. Leer sobre API Coindesk
+ 2. Ver vídeos de su uso en otros frameworks
+ 3. Consultar librerías para gráficos
+ 4. Ver ejemplos
+ 5. Hacer proyectos pequeños relacionados para probar
+ 6. Prueba y error
+ 7. Crear proyecto
+ 8. Trabajarlo
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+ PD: Si bien al final no me salió nada muy bien pr
 
-## Build
+### 2. Tecnologías utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+ - Angular
+ - Angular Material
+ - Ng2-charts
+ - Chart.js
