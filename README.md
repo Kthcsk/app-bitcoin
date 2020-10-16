@@ -15,8 +15,6 @@ Para ver la demo del proyecto haz click [aquí]()
  7. Crear proyecto
  8. Trabajarlo
 
- PD: Si bien al final no me salió nada muy bien pr
-
 ### 2. Tecnologías utilizadas
 
  - Angular
